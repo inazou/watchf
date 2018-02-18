@@ -1,0 +1,4 @@
+package: watchf
+import:
+- package: github.com/go-fsnotify/fsnotify
+  version: ~1.4.7
